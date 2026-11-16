@@ -339,7 +339,7 @@ lbl = doc.add_paragraph()
 lbl.alignment = WD_ALIGN_PARAGRAPH.CENTER
 lbl.paragraph_format.space_after = Pt(8)
 runs(lbl, "AGENSI RAKAN STRATEGIK", bold=True, size=8.5, color=GREY)
-logo_row(["logo_zakat_mainpp.png", "logo_lppkn.png", "logo_jkm.png"], 1.7, 4.0)
+logo_row(["logo_zakat_mainpp.png", "logo_lppkn.png", "logo_jkm.png", "logo_jkn.png"], 1.7, 4.0)
 
 # =====================================================================
 # KANDUNGAN — seksyen baharu (pengaki bermula di sini)
@@ -386,7 +386,7 @@ data_table(
         ["Ahli", "Pengarah, Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN) Negeri Pulau Pinang"],
         ["Ahli", "Pengarah, Jabatan Kebajikan Masyarakat (JKM) Negeri Pulau Pinang"],
         ["Ahli", "Pengarah, Jabatan Kesihatan Negeri Pulau Pinang"],
-        ["Ahli", "Ketua Pegawai Eksekutif (CEO), Zakat Pulau Pinang (ZPP)"],
+        ["Ahli", "Ketua Pegawai Eksekutif (CEO), Zakat MAINPP"],
         ["Urus Setia", "Bahagian Undang-Undang Keluarga Islam (BUUKI), JHEAIPP"],
     ],
     [3.5, 10.0],
@@ -457,7 +457,7 @@ for n, t in [
     ("7.1.3", "Permohonan peruntukan hendaklah mengambil kira perancangan program tahunan, keperluan kumpulan sasaran, cadangan agensi, anggaran kos dan keutamaan semasa."),
     ("7.1.4", "Sumber peruntukan adalah daripada Objek Lanjut 734J, Akaun Zakat MAINPP, tertakluk kepada kelulusan, peraturan dan ketetapan kewangan yang berkuat kuasa."),
     ("7.1.5", "Peruntukan JKKWPK adalah di bawah agihan **asnaf fisabilillah**. Setiap program yang dibiayai hendaklah selaras dengan hukum syarak serta ketetapan agihan zakat MAINPP bagi asnaf fisabilillah, dan kertas cadangan hendaklah menyatakan justifikasi program tersebut di bawah asnaf fisabilillah."),
-    ("7.1.6", "Agensi pelaksana dan Urus Setia hendaklah memastikan tiada pertindihan manfaat atau pembiayaan dengan program sedia ada di bawah ZPP atau agensi lain bagi kumpulan sasaran yang sama."),
+    ("7.1.6", "Agensi pelaksana dan Urus Setia hendaklah memastikan tiada pertindihan manfaat atau pembiayaan dengan program sedia ada di bawah Zakat MAINPP atau agensi lain bagi kumpulan sasaran yang sama."),
 ]:
     clause(n, t)
 
@@ -507,8 +507,8 @@ data_table(
          ["Kesedaran dan pendidikan kesihatan.", "Kesihatan keluarga dan komuniti.", "Kesihatan mental dan kesejahteraan emosi.", "Program pencegahan penyakit serta intervensi kesihatan."]],
         ["Jabatan Hal Ehwal Agama Islam Pulau Pinang (JHEAIPP) melalui BUUKI",
          ["Pembangunan keluarga Islam.", "Pendidikan dan pengukuhan institusi kekeluargaan Islam.", "Program praperkahwinan dan pascaperkahwinan Islam.", "Program pengukuhan hubungan kekeluargaan berteraskan ajaran Islam."]],
-        ["Zakat Pulau Pinang (ZPP)",
-         ["Sokongan dan kerjasama dalam aspek kebajikan serta kesejahteraan golongan asnaf.", "Cadangan program yang bersesuaian dengan fungsi dan bidang kuasa ZPP.", "Kerjasama dalam mengenal pasti keperluan kumpulan sasaran yang layak menerima manfaat."]],
+        ["Zakat MAINPP",
+         ["Sokongan dan kerjasama dalam aspek kebajikan serta kesejahteraan golongan asnaf.", "Cadangan program yang bersesuaian dengan fungsi dan bidang kuasa Zakat MAINPP.", "Kerjasama dalam mengenal pasti keperluan kumpulan sasaran yang layak menerima manfaat."]],
     ],
     [4.8, 8.7],
 )

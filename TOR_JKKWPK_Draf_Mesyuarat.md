@@ -33,7 +33,7 @@
 2. Pengarah, Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN) Negeri Pulau Pinang.
 3. Pengarah, Jabatan Kebajikan Masyarakat (JKM) Negeri Pulau Pinang.
 4. Pengarah, Jabatan Kesihatan Negeri Pulau Pinang.
-5. Ketua Pegawai Eksekutif (CEO), Zakat Pulau Pinang (ZPP).
+5. Ketua Pegawai Eksekutif (CEO), Zakat MAINPP.
 
 **Urus Setia**
 - Bahagian Undang-Undang Keluarga Islam (BUUKI), JHEAIPP.
@@ -124,7 +124,7 @@ JKKWPK bertanggungjawab untuk:
 
 7.1.5 Peruntukan JKKWPK adalah di bawah agihan asnaf fisabilillah. Setiap program yang dibiayai hendaklah selaras dengan hukum syarak serta ketetapan agihan zakat MAINPP bagi asnaf fisabilillah, dan kertas cadangan hendaklah menyatakan justifikasi program tersebut di bawah asnaf fisabilillah.
 
-7.1.6 Agensi pelaksana dan Urus Setia hendaklah memastikan tiada pertindihan manfaat atau pembiayaan dengan program sedia ada di bawah ZPP atau agensi lain bagi kumpulan sasaran yang sama.
+7.1.6 Agensi pelaksana dan Urus Setia hendaklah memastikan tiada pertindihan manfaat atau pembiayaan dengan program sedia ada di bawah Zakat MAINPP atau agensi lain bagi kumpulan sasaran yang sama.
 
 ### 7.2 Pengurusan Kewangan
 
@@ -193,9 +193,9 @@ Pembahagian portfolio program mengikut bidang kepakaran dan tanggungjawab agensi
 - Program praperkahwinan dan pascaperkahwinan Islam.
 - Program pengukuhan hubungan kekeluargaan berteraskan ajaran Islam.
 
-**e. Zakat Pulau Pinang (ZPP)**
+**e. Zakat MAINPP**
 - Sokongan dan kerjasama dalam aspek kebajikan serta kesejahteraan golongan asnaf.
-- Cadangan program yang bersesuaian dengan fungsi dan bidang kuasa ZPP.
+- Cadangan program yang bersesuaian dengan fungsi dan bidang kuasa Zakat MAINPP.
 - Kerjasama dalam mengenal pasti keperluan kumpulan sasaran yang layak menerima manfaat.
 
 7.5.1 Pembahagian portfolio ini merupakan panduan penyelarasan bidang tanggungjawab dan tidak bermaksud peruntukan kewangan dibahagikan secara sama rata atau secara tetap kepada setiap agensi.
