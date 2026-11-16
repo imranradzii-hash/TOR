@@ -567,15 +567,13 @@ roles = [
         "Meneliti dan menyelaras cadangan program yang dikemukakan oleh agensi.",
         "Melaporkan perkembangan dan isu pelaksanaan program kepada Pengerusi serta MAINPP.",
     ]),
-    ("9.3", "Urus Setia (BUUKI)", [
-        "Membantu Setiausaha dalam urusan pentadbiran dan pengurusan JKKWPK.",
-        "Mengurus surat-menyurat, notis mesyuarat, agenda, minit mesyuarat dan dokumentasi.",
-        "Menyelaras takwim serta pelaksanaan program bersama agensi berkaitan.",
-        "Mengurus permohonan LO, tuntutan bayaran dan dokumentasi kewangan kepada MAINPP.",
-        "Memantau pelaksanaan program dan mendapatkan laporan daripada agensi pelaksana.",
-        "Menyediakan laporan keseluruhan program dan status perbelanjaan JKKWPK.",
-        "Menjadi penghubung antara MAINPP dengan agensi-agensi yang terlibat.",
+    ("9.3", "Ahli Majlis", [
+        "Memberikan pandangan, nasihat dan pertimbangan berkaitan dasar, hala tuju serta kepentingan MAINPP dalam perbincangan JKKWPK.",
+        "Membantu memastikan cadangan dan syor jawatankuasa selaras dengan dasar, ketetapan serta kepentingan MAINPP.",
+        "Memberikan pandangan terhadap cadangan program dan perancangan strategik sebelum dikemukakan kepada MAINPP untuk pertimbangan selanjutnya.",
+        "Membantu memperkukuh hubungan penyelarasan antara JKKWPK dengan MAINPP.",
     ]),
+
     ("9.4", "Ahli Jawatankuasa", [
         "Menghadiri mesyuarat dan memberikan pandangan berdasarkan bidang kepakaran serta tanggungjawab agensi masing-masing.",
         "Mengenal pasti keperluan dan isu berkaitan bidang portfolio masing-masing.",
@@ -584,13 +582,15 @@ roles = [
         "Mengemukakan laporan pelaksanaan dan pencapaian program kepada BUUKI.",
         "Memberikan kerjasama dalam penyelarasan dan pemantauan program JKKWPK.",
     ]),
-    ("9.5", "Ahli Majlis", [
-        "Memberikan pandangan, nasihat dan pertimbangan berkaitan dasar, hala tuju serta kepentingan MAINPP dalam perbincangan JKKWPK.",
-        "Membantu memastikan cadangan dan syor jawatankuasa selaras dengan dasar, ketetapan serta kepentingan MAINPP.",
-        "Memberikan pandangan terhadap cadangan program dan perancangan strategik sebelum dikemukakan kepada MAINPP untuk pertimbangan selanjutnya.",
-        "Membantu memperkukuh hubungan penyelarasan antara JKKWPK dengan MAINPP.",
-    ]),
-]
+    ("9.5", "Urus Setia (BUUKI)", [
+        "Membantu Setiausaha dalam urusan pentadbiran dan pengurusan JKKWPK.",
+        "Mengurus surat-menyurat, notis mesyuarat, agenda, minit mesyuarat dan dokumentasi.",
+        "Menyelaras takwim serta pelaksanaan program bersama agensi berkaitan.",
+        "Mengurus permohonan LO, tuntutan bayaran dan dokumentasi kewangan kepada MAINPP.",
+        "Memantau pelaksanaan program dan mendapatkan laporan daripada agensi pelaksana.",
+        "Menyediakan laporan keseluruhan program dan status perbelanjaan JKKWPK.",
+        "Menjadi penghubung antara MAINPP dengan agensi-agensi yang terlibat.",
+    ]),]
 for n, title, items in roles:
     subheading(n, title)
     letters(items)

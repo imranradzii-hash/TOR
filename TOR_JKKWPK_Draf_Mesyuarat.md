@@ -257,15 +257,12 @@ d. Memastikan keputusan mesyuarat diambil tindakan oleh pihak yang berkaitan.
 e. Meneliti dan menyelaras cadangan program yang dikemukakan oleh agensi.
 f. Melaporkan perkembangan dan isu pelaksanaan program kepada Pengerusi serta MAINPP.
 
-### 9.3 Urus Setia (BUUKI)
+### 9.3 Ahli Majlis
 
-a. Membantu Setiausaha dalam urusan pentadbiran dan pengurusan JKKWPK.
-b. Mengurus surat-menyurat, notis mesyuarat, agenda, minit mesyuarat dan dokumentasi.
-c. Menyelaras takwim serta pelaksanaan program bersama agensi berkaitan.
-d. Mengurus permohonan LO, tuntutan bayaran dan dokumentasi kewangan kepada MAINPP.
-e. Memantau pelaksanaan program dan mendapatkan laporan daripada agensi pelaksana.
-f. Menyediakan laporan keseluruhan program dan status perbelanjaan JKKWPK.
-g. Menjadi penghubung antara MAINPP dengan agensi-agensi yang terlibat.
+a. Memberikan pandangan, nasihat dan pertimbangan berkaitan dasar, hala tuju serta kepentingan MAINPP dalam perbincangan JKKWPK.
+b. Membantu memastikan cadangan dan syor jawatankuasa selaras dengan dasar, ketetapan serta kepentingan MAINPP.
+c. Memberikan pandangan terhadap cadangan program dan perancangan strategik sebelum dikemukakan kepada MAINPP untuk pertimbangan selanjutnya.
+d. Membantu memperkukuh hubungan penyelarasan antara JKKWPK dengan MAINPP.
 
 ### 9.4 Ahli Jawatankuasa
 
@@ -276,12 +273,15 @@ d. Memastikan program di bawah tanggungjawab agensi dilaksanakan setelah mendapa
 e. Mengemukakan laporan pelaksanaan dan pencapaian program kepada BUUKI.
 f. Memberikan kerjasama dalam penyelarasan dan pemantauan program JKKWPK.
 
-### 9.5 Ahli Majlis
+### 9.5 Urus Setia (BUUKI)
 
-a. Memberikan pandangan, nasihat dan pertimbangan berkaitan dasar, hala tuju serta kepentingan MAINPP dalam perbincangan JKKWPK.
-b. Membantu memastikan cadangan dan syor jawatankuasa selaras dengan dasar, ketetapan serta kepentingan MAINPP.
-c. Memberikan pandangan terhadap cadangan program dan perancangan strategik sebelum dikemukakan kepada MAINPP untuk pertimbangan selanjutnya.
-d. Membantu memperkukuh hubungan penyelarasan antara JKKWPK dengan MAINPP.
+a. Membantu Setiausaha dalam urusan pentadbiran dan pengurusan JKKWPK.
+b. Mengurus surat-menyurat, notis mesyuarat, agenda, minit mesyuarat dan dokumentasi.
+c. Menyelaras takwim serta pelaksanaan program bersama agensi berkaitan.
+d. Mengurus permohonan LO, tuntutan bayaran dan dokumentasi kewangan kepada MAINPP.
+e. Memantau pelaksanaan program dan mendapatkan laporan daripada agensi pelaksana.
+f. Menyediakan laporan keseluruhan program dan status perbelanjaan JKKWPK.
+g. Menjadi penghubung antara MAINPP dengan agensi-agensi yang terlibat.
 
 ## 10.0 KONFLIK KEPENTINGAN DAN KERAHSIAAN MAKLUMAT
 
