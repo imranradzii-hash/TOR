@@ -70,7 +70,7 @@ JKKWPK bertanggungjawab untuk:
 
 3.8 Membincangkan isu-isu berbangkit yang berkaitan dengan bidang tugas jawatankuasa dan mengemukakan cadangan penyelesaian kepada MAINPP.
 
-## 4.0 KEKERAPAN MESYUARAT, KUORUM DAN KEPUTUSAN
+## 4.0 KEKERAPAN MESYUARAT DAN KUORUM
 
 4.1 JKKWPK hendaklah bermesyuarat sekurang-kurangnya dua (2) kali setahun atau mengikut keperluan semasa.
 
@@ -82,13 +82,9 @@ JKKWPK bertanggungjawab untuk:
 
 4.5 Berdasarkan struktur keanggotaan semasa seramai tujuh (7) orang, kuorum mesyuarat adalah sekurang-kurangnya empat (4) orang.
 
-4.6 Sekiranya Pengerusi tidak dapat hadir, ahli-ahli yang hadir hendaklah memilih seorang daripada kalangan mereka, selain Setiausaha, untuk mempengerusikan mesyuarat tersebut.
+4.6 Sekiranya kuorum tidak mencukupi, mesyuarat boleh diteruskan sebagai sesi perbincangan. Walau bagaimanapun, sebarang keputusan atau syor rasmi hendaklah dibawa untuk pertimbangan dalam mesyuarat yang mempunyai kuorum atau diputuskan secara edaran dengan persetujuan Pengerusi.
 
-4.7 Keputusan mesyuarat hendaklah dibuat secara muafakat. Sekiranya muafakat tidak dicapai, keputusan dibuat berdasarkan undi majoriti ahli yang hadir, dan Pengerusi mesyuarat mempunyai undi pemutus.
-
-4.8 Sekiranya kuorum tidak mencukupi, mesyuarat boleh diteruskan sebagai sesi perbincangan. Walau bagaimanapun, sebarang keputusan atau syor rasmi hendaklah dibawa untuk pertimbangan dalam mesyuarat yang mempunyai kuorum atau diputuskan secara edaran dengan persetujuan Pengerusi.
-
-4.9 Minit mesyuarat hendaklah disediakan oleh Urus Setia dan diedarkan kepada ahli-ahli dalam tempoh empat belas (14) hari selepas mesyuarat untuk makluman serta tindakan susulan.
+4.7 Minit mesyuarat hendaklah disediakan oleh Urus Setia dan diedarkan kepada ahli-ahli dalam tempoh empat belas (14) hari selepas mesyuarat untuk makluman serta tindakan susulan.
 
 ## 5.0 BIDANG KUASA DAN PELAPORAN
 
@@ -126,7 +122,7 @@ JKKWPK bertanggungjawab untuk:
 
 7.1.4 Sumber peruntukan adalah daripada Objek Lanjut 734J, Akaun Zakat MAINPP, tertakluk kepada kelulusan, peraturan dan ketetapan kewangan yang berkuat kuasa.
 
-7.1.5 Memandangkan sumber peruntukan adalah daripada Akaun Zakat, setiap program yang dibiayai hendaklah selaras dengan hukum syarak serta ketetapan agihan zakat MAINPP, dan kertas cadangan hendaklah menyatakan kategori asnaf yang menjadi kumpulan sasaran.
+7.1.5 Peruntukan JKKWPK adalah di bawah agihan asnaf fisabilillah. Setiap program yang dibiayai hendaklah selaras dengan hukum syarak serta ketetapan agihan zakat MAINPP bagi asnaf fisabilillah, dan kertas cadangan hendaklah menyatakan justifikasi program tersebut di bawah asnaf fisabilillah.
 
 7.1.6 Agensi pelaksana dan Urus Setia hendaklah memastikan tiada pertindihan manfaat atau pembiayaan dengan program sedia ada di bawah ZPP atau agensi lain bagi kumpulan sasaran yang sama.
 
@@ -144,7 +140,7 @@ JKKWPK bertanggungjawab untuk:
 
 7.3.1 Setiap agensi yang terlibat bertanggungjawab menyediakan kertas cadangan bagi program yang berada di bawah portfolio dan bidang tanggungjawab masing-masing.
 
-7.3.2 Kertas cadangan hendaklah mengandungi sekurang-kurangnya objektif, rasional, kumpulan sasaran (termasuk kategori asnaf), tarikh, tempat, kaedah pelaksanaan, anggaran perbelanjaan dan hasil yang dijangka.
+7.3.2 Kertas cadangan hendaklah mengandungi sekurang-kurangnya objektif, rasional, kumpulan sasaran, justifikasi di bawah asnaf fisabilillah, tarikh, tempat, kaedah pelaksanaan, anggaran perbelanjaan dan hasil yang dijangka.
 
 7.3.3 Agensi yang mengemukakan kertas cadangan bertanggungjawab melaksanakan program masing-masing setelah mendapat kelulusan pihak berkuasa yang berkaitan.
 
@@ -206,7 +202,11 @@ Pembahagian portfolio program mengikut bidang kepakaran dan tanggungjawab agensi
 
 7.5.2 Peruntukan bagi setiap program adalah berdasarkan kertas cadangan, keperluan, keutamaan, kemampuan kewangan dan kelulusan MAINPP.
 
-7.5.3 Program berkaitan pemerkasaan wanita boleh dikemukakan oleh mana-mana agensi mengikut kesesuaian portfolio masing-masing. **[UNTUK KEPUTUSAN MESYUARAT: sama ada portfolio wanita diletakkan secara khusus di bawah agensi tertentu]**
+7.5.3 Portfolio pembangunan dan pemerkasaan wanita **[UNTUK KEPUTUSAN MESYUARAT — pilih satu]**:
+
+- Pilihan A: diletakkan di bawah Jabatan Kebajikan Masyarakat (JKM);
+- Pilihan B: diletakkan di bawah Lembaga Penduduk dan Pembangunan Keluarga Negara (LPPKN); atau
+- Pilihan C: dilaksanakan dengan penglibatan pertubuhan bukan kerajaan (NGO) wanita melalui panel atau kumpulan kerja khas di bawah perenggan 8.0.
 
 ### 7.6 Elaun Mesyuarat
 
@@ -216,7 +216,7 @@ Pembahagian portfolio program mengikut bidang kepakaran dan tanggungjawab agensi
 
 7.6.2 Kadar elaun tersebut adalah berdasarkan ketetapan dalam Minit Mesyuarat Majlis Agama Islam Negeri Pulau Pinang Bil. 1 Tahun 2026 (Kali Ke-275).
 
-7.6.3 Sumber pembayaran elaun mesyuarat adalah daripada **[UNTUK KEPUTUSAN MESYUARAT: nyatakan sumber/objek lanjut]**.
+7.6.3 Elaun mesyuarat dibayar daripada peruntukan JKKWPK di bawah Objek Lanjut 734J, Akaun Zakat MAINPP (asnaf fisabilillah), tertakluk kepada ketetapan agihan zakat dan tatacara kewangan yang berkuat kuasa.
 
 7.6.4 Pembayaran elaun adalah berdasarkan kehadiran yang disahkan oleh Urus Setia serta tertakluk kepada kelulusan MAINPP, peruntukan yang tersedia dan tatacara kewangan yang berkuat kuasa.
 
